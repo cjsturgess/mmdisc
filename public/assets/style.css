@@ -1,0 +1,13 @@
+html,
+body {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    margin-top: 5%;
+}
+
+button {
+    margin-top: 0.5%;
+}
